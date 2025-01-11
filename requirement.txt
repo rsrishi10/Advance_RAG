@@ -1,0 +1,17 @@
+openai
+chromadb==0.5.0
+langchain
+langchain_community
+pypdf
+pydantic
+sentence-transformers
+tiktoken 
+langchain-openai 
+langchainhub 
+langgraph 
+langchain-text-splitters
+streamlit
+python-dotenv
+trulens
+trulens-providers-openai
+trulens-apps-llamaindex
